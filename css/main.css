@@ -22,7 +22,7 @@ tbody tr:nth-child(odd) {
   width: 16em;
 }
 
-.table {
+table {
   min-width: 50em;
 }
 
